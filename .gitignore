@@ -4,4 +4,4 @@ settings.py
 venv/
 __pycache__/
 .handler-saves
-settings.py
+api_key.py
