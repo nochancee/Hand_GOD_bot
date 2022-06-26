@@ -1,0 +1,7 @@
+*.log
+settings.py
+.vscode/
+venv/
+__pycache__/
+.handler-saves
+settings.py
