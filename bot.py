@@ -10,7 +10,7 @@ logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s',
                     )
 
 def start(update, context):
-    text = 'Вызван /start'
+    text = 'Вызван /starts'
     logging.info(text)
     update.message.reply_text(text)
 
